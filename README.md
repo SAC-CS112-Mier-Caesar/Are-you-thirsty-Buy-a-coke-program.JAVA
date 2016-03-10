@@ -14,6 +14,8 @@ public class Lab1 {
         num = input.nextDouble();
      if(num == 1)
          System.out.println("Buy a coke");
+    else
+        System.out.println("Get water");
         
     System.out.println("Eat lunch");
     System.out.println("Return tray");
