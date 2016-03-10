@@ -23,7 +23,6 @@ public class Lab1 {
             else
                 System.out.println("Buy a coke");
             
-            System.out.println("Buy a coke");
             }
     else
         System.out.println("Get water");
